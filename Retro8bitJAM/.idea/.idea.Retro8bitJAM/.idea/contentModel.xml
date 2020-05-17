@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\_Github\Retro8bit\Retro8bitJAM" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="JAM" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Animations" t="Include">
+              <e p="PlayerMinionAnimations.cs" t="Include" />
+              <e p="PlayerNecromancerAnimations.cs" t="Include" />
+            </e>
+            <e p="Chest" t="Include">
+              <e p="Lootchest.cs" t="Include" />
+            </e>
+            <e p="Commands" t="Include">
+              <e p="AttackCommand.cs" t="Include" />
+              <e p="Command.cs" t="Include" />
+              <e p="CustomInteract.cs" t="Include" />
+              <e p="InteractCommand.cs" t="Include" />
+              <e p="MoveCommand.cs" t="Include" />
+              <e p="SkillCommand.cs" t="Include" />
+              <e p="SwitchCharacterCommand.cs" t="Include" />
+            </e>
+            <e p="Enemies" t="Include">
+              <e p="Saw.cs" t="Include" />
+            </e>
+            <e p="Factory" t="Include">
+              <e p="WeaponFactory.cs" t="Include" />
+              <e p="WeaponPickupFactory.cs" t="Include" />
+            </e>
+            <e p="Input" t="Include">
+              <e p="CharacterManagerInput.cs" t="Include" />
+              <e p="IAttackInput.cs" t="Include" />
+              <e p="IInteractInput.cs" t="Include" />
+              <e p="IIsPressingSwitchCharacter.cs" t="Include" />
+              <e p="IMoveInput.cs" t="Include" />
+              <e p="ISelectedWeapon.cs" t="Include" />
+              <e p="ISkillInput.cs" t="Include" />
+              <e p="PlayerInputActions.cs" t="Include" />
+              <e p="PlayerMinionInput.cs" t="Include" />
+              <e p="PlayerNecromancerInput.cs" t="Include" />
+            </e>
+            <e p="Interfaces" t="Include">
+              <e p="IDamageable.cs" t="Include" />
+              <e p="IDestroyable.cs" t="Include" />
+              <e p="IHealable.cs" t="Include" />
+              <e p="IInteractable.cs" t="Include" />
+              <e p="IKilleable.cs" t="Include" />
+              <e p="ILife.cs" t="Include" />
+              <e p="IOpenable.cs" t="Include" />
+              <e p="IPickable.cs" t="Include" />
+              <e p="ISpawnable.cs" t="Include" />
+            </e>
+            <e p="Managers" t="Include">
+              <e p="CharacterManager.cs" t="Include" />
+            </e>
+            <e p="Pickups" t="Include">
+              <e p="ArrowPickup.cs" t="Include" />
+              <e p="WeaponPickup.cs" t="Include" />
+            </e>
+            <e p="Player" t="Include">
+              <e p="Minion.cs" t="Include" />
+              <e p="Necromancer.cs" t="Include" />
+            </e>
+            <e p="Projectile" t="Include">
+              <e p="ArrowProjectile.cs" t="Include" />
+              <e p="Projectiles.cs" t="Include" />
+              <e p="SpearProjectile.cs" t="Include" />
+            </e>
+            <e p="ScriptableObjects" t="Include">
+              <e p="WeaponSO.cs" t="Include" />
+            </e>
+            <e p="Skeleton" t="Include">
+              <e p="SummonMinion.cs" t="Include" />
+            </e>
+            <e p="Structs" t="Include">
+              <e p="WeaponStruct.cs" t="Include" />
+            </e>
+            <e p="Weapons" t="Include">
+              <e p="BaseWeapon.cs" t="Include" />
+              <e p="BowWeapon.cs" t="Include" />
+              <e p="SpearWeapon.cs" t="Include" />
+              <e p="SwordWeapon.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Retro8bitJAM.sln" t="IncludeFlat" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Usuário\.Rider2019.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Usuário\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Usuário\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Retro8bitJAM.-709923410.00" t="ExcludeRecursive" />
+  </component>
+</project>

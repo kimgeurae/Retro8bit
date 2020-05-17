@@ -13,13 +13,13 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Interactable
+  - Summonable
+  - Enemies
+  - Walls
+  - Summons
+  - Doors
+  - Player
   - 
   - 
   - 
